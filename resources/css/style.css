@@ -1,0 +1,112 @@
+.navbar .nav-item {
+    padding-right: 16px;
+}
+
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-img-1 {
+    background: url(img/slide-1.jpg) no-repeat center/cover;
+
+}
+
+.carousel-img-2 {
+    background: url(img/bg-22.jpg) no-repeat center/cover;
+}
+
+.carousel-img-3 {
+    background: url(img/bg-44.jpg) no-repeat center/cover;
+
+}
+
+/*Home icon section*/
+#home-icon .fa {
+    font-size: 50px;
+}
+
+/*get started section*/
+
+#get-started {
+    height: 300px;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 65, 67, 0.7)), to(rgba(65, 65, 67, 0.7))),
+        url(img/slide-2.jpg)no-repeat center/cover;
+    background: linear-gradient(rgba(65, 65, 67, 0.7), rgba(65, 65, 67, 0.7)),
+        url(img/slide-2.jpg)no-repeat center/cover;
+    background-attachment: fixed;
+}
+
+
+/*home video section*/
+
+
+#home-video {
+    height: 250px;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 65, 67, 0.7)), to(rgba(65, 65, 67, 0.7))),
+        url(img/slide-3.jpg)no-repeat center/cover;
+    background: linear-gradient(rgba(65, 65, 67, 0.7), rgba(65, 65, 67, 0.7)),
+        url(img/slide-3.jpg)no-repeat center/cover;
+    background-attachment: fixed;
+}
+
+#home-video .fa {
+    font-size: 50px;
+}
+
+
+/*copyright section*/
+
+#copyright {
+    background: #000;
+}
+
+/*about header */
+
+
+
+#about-header {
+    height: 100%;
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 65, 67, 0.7)), to(rgba(65, 65, 67, 0.7))),
+        url(img/about-header-bg.jpg)no-repeat center/cover;
+    background: linear-gradient(rgba(65, 65, 67, 0.7), rgba(65, 65, 67, 0.7)),
+        url(img/about-header-bg.jpg)no-repeat center/cover;
+    background-attachment: fixed;
+}
+
+/*about info or what we do*/
+
+#about-info img {
+    width: 300px;
+    height: 300px;
+
+}
+
+/*about-box*/
+#about-box .fa {
+    font-size: 50px;
+}
+
+/*testimonial*/
+
+
+
+#testimonial .slick-prev::before,
+#testimonial .slick-next::before {
+    color: #000;
+}
+
+
+/*service header*/
+
+#service-header {
+
+    height: 100%;
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 65, 67, 0.7)), to(rgba(65, 65, 67, 0.7))),
+        url(img/service-header-bg.jpg)no-repeat center/cover;
+    background: linear-gradient(rgba(65, 65, 67, 0.7), rgba(65, 65, 67, 0.7)),
+        url(img/service-header-bg.jpg)no-repeat center/cover;
+    background-attachment: fixed;
+
+}

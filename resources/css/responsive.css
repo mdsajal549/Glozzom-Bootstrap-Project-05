@@ -1,0 +1,38 @@
+@media (max-width:480px) {
+    .carousel-caption h2 {
+        font-size: 2rem;
+    }
+
+    #get-started {
+        height: 100%;
+        width: 100%;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 65, 67, 0.7)), to(rgba(65, 65, 67, 0.7))),
+            url(img/get-bg.jpg)no-repeat center/cover;
+        background: linear-gradient(rgba(65, 65, 67, 0.7), rgba(65, 65, 67, 0.7)),
+            url(img/get-bg.jpg)no-repeat center/cover;
+        background-attachment: fixed;
+    }
+
+    #get-started h3 {
+        font-size: 30px;
+
+    }
+
+    #get-started p {
+        font-size: 15px;
+    }
+
+}
+/*about header */
+
+
+
+#about-header{
+     height: 100%;
+        width: 100%;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(65, 65, 67, 0.7)), to(rgba(65, 65, 67, 0.7))),
+            url(img/about-header-bg.jpg)no-repeat center/cover;
+        background: linear-gradient(rgba(65, 65, 67, 0.7), rgba(65, 65, 67, 0.7)),
+            url(img/about-header-bg.jpg)no-repeat center/cover;
+        background-attachment: fixed;
+}
